@@ -29,7 +29,7 @@
 
 爱毕设官网： [http://www.jsxs1.cn](http://www.jsxs1.cn)
 
-![6449464bad613fd29c0dff81b5801c1](https://github.com/hjsdjko/hjsdjko/assets/120558513/09704eae-2d88-4f15-9e77-d82df3acd18f)
+![82e41f4df65c7c819ec690fd60bcaca](https://github.com/user-attachments/assets/e035d080-b35d-4137-8967-88d1b58ecaad)
 
 
 # 3.资源展示
