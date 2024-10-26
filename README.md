@@ -23,6 +23,9 @@
 
 公司目前拥有SpringBoot项目757套、SSM项目820套、微信小程序434套.公司拥有专业的辅导团队和先进的教学设施，能够为学员提供全方位的辅导服务。截至目前，公司已成功辅导数千名学员完成所需任务，得到了广大学员和业界的高度认可。
 
+![2cbc4c48-3aaf-4d7b-9475-9bb9b731e3dc](https://github.com/user-attachments/assets/2caf12b1-db13-4220-9f1f-0a5bcfc7711f)
+
+
 # 2.公司官网
 
 [![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-%E7%88%B1%E6%AF%95%E8%AE%BE%E5%AE%98%E7%BD%91-yello)](http://jsxs1.cn)
