@@ -23,7 +23,7 @@
 
 公司目前拥有SpringBoot项目757套、SSM项目820套、微信小程序434套.共计3500套，其中有850套为2024年最新项目！公司拥有专业的辅导团队和先进的教学设施，能够为学员提供全方位的辅导服务。截至目前，公司已成功辅导数千名学员完成所需任务，得到了广大学员和业界的高度认可。
 
-![2cbc4c48-3aaf-4d7b-9475-9bb9b731e3dc](https://github.com/user-attachments/assets/2caf12b1-db13-4220-9f1f-0a5bcfc7711f)
+![fddfdf3057d81b1ec6b96a167aba07cad650f30c](https://github.com/user-attachments/assets/012ad31f-2f9c-4507-ae8a-9ac0f8f96fcc)
 
 
 # 2.公司官网
