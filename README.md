@@ -35,6 +35,10 @@
 
 ![82e41f4df65c7c819ec690fd60bcaca](https://github.com/user-attachments/assets/e035d080-b35d-4137-8967-88d1b58ecaad)
 
+手机访问官网： 【微信或QQ扫描以下二维码在线预览项目】
+
+![爱毕设官网](https://github.com/user-attachments/assets/82fecfb3-127c-46fc-a5f6-516a4498fb26)
+
 
 # 3.资源展示
 
